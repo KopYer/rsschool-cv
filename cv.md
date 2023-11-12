@@ -18,3 +18,20 @@ function multiply(a, b){
   return a * b
 }
 ```
+
+## Skills and Proficiency:
+
+  Dev tool    | Level
+  ------------|:--------:
+  HTML5, CSS3 | Beginner 
+  JavaScript  | Beginner 
+  Git, GitHub | Beginner 
+  VS Code     | Beginner 
+
+## Languages:
+
+  Language| Level
+  --------|:-------------------------------:
+  English | Pre-Intermediate/Intermediate
+  Kazakh  | Native                       
+  Russian | Fluent                       
