@@ -9,7 +9,7 @@
 ## About me:
 
 > I have no working experience in IT yet, but i have a lot of desire, enthusiasm and interest in it.
-> I want to learn FE for change my work field, because i don't want to be limited with economic situation in my town region etc.
+> I want to learn FE for change my work field, because I don't want to be limited with economic situation in my town region etc.
 
 ## Code example:
 
