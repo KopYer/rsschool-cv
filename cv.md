@@ -6,7 +6,7 @@
 
 **Adress:** _Aktau, Kazakhstan_
 
-**Email:** _froll_erlan@mail.ru_
+**Email:** [_froll_erlan@mail.ru_](maito:froll_erlan@mail.ru)
 
 ---
 
@@ -19,7 +19,9 @@
 ## Skills
 
 **HTML:** _Basic_
+
 **CSS:** _Basic_
+
 **JavaScript:** _Basic_
 
 ---
