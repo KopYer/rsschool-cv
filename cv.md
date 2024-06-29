@@ -4,7 +4,7 @@
 
 ## Contacts
 
-**Adress:** _Aktau, Kazakhstan_
+**Address:** _Aktau, Kazakhstan_
 
 **Email:** [_froll_erlan@mail.ru_](maito:froll_erlan@mail.ru)
 
