@@ -1,0 +1,145 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0; 
+    padding: 0;
+    }
+    
+    .container {
+        max-width: 1440px;
+        margin: 0 auto;
+        min-height: 50px;
+    }
+
+      .header, .footer {    
+        background-color: #4d2323;
+    }
+
+      .nav-list {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        list-style: none;
+      }
+
+      .nav-link {
+        text-decoration: none;
+        padding: 0 20px;
+        line-height: 50px;
+        transition: 0.3s;
+        color: aliceblue;
+      }
+
+      .link {
+        text-decoration: none;
+        color: #4d2323;
+        transition: color 0.5s;
+      }
+      
+      .link:hover {
+        color: #a30c39;
+      }
+
+      .section {
+        width: 50%;
+      }
+
+      .section-profile {
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+        padding: 50px 30px 35px;
+        border-bottom: 15px solid #4d2323;
+    }
+
+      .section-item a {
+        color: #4d2323;
+        text-decoration: none;
+        transition: color 0.5s;
+      }
+
+      .section-item a:hover {
+        color: #a30c39;
+      }
+
+      .section-title {
+        font-size: 20px;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 5px;
+        color: #4d2323;
+      }
+
+      .section-item {
+        position: relative;
+        padding-left: 30px;
+        list-style: none;
+      }
+      
+      .section-item::before {
+        content: "";
+        position: absolute;
+        top: 8px;
+        left: 0px;
+        width: 10px;
+        height: 10px;
+        border: 1px solid #4d2323;
+        border-radius: 50%;
+      }
+      
+      .main-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+      }
+
+      .footer-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0 auto;
+        color: #fff;
+    }
+
+      .profile-avatar {
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 50%;
+      }
+
+      @media (max-width: 768px) {
+        .section {
+          width: 100%;
+        }
+      }
+
+      .github {
+        width: 121px;
+        height: 45px;
+        background-image: url(./assets/images/github-mark-white.svg);
+        background-size: contain;
+        background-repeat: no-repeat;
+      }
+
+      .rss {
+        width: 121px;
+        height: 45px;
+        background-image: url(./assets/images/rs-school-logo.svg);
+        background-size: contain;
+        background-repeat: no-repeat;
+      }
